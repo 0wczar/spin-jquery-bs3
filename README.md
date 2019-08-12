@@ -1,8 +1,11 @@
 # SPIN HTML/CSS - now is free!
-![image](https://user-images.githubusercontent.com/2330394/62898026-d0d47d80-bd54-11e9-852e-df8213ea1ea9.png)
+
 ### Intro
 SPIN Admin/Dashboard Theme with a minimalist design and innovative Dark UI will let you build an amazing and powerful application with great UI. Perfectly designed for large scale applications, with detailed step by step documentation.
 It is built based on the latest standards and recommendations. It is powered by Bootstrap framework 3.x, which is currently one of the most popular framework in the world.
+
+![image](https://user-images.githubusercontent.com/2330394/62898082-fd889500-bd54-11e9-83db-31b2ef5a8340.png)
+![image](https://user-images.githubusercontent.com/2330394/62898026-d0d47d80-bd54-11e9-852e-df8213ea1ea9.png)
 
 ## Installation
 1. Make sure you have Ruby installed (Ruby DevKit on Windows also), Jekyll gem, Bundler gem (`gem install bundler`),  Node, Bower and Gulp
